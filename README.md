@@ -9,25 +9,20 @@ Mktcash is an open source crypto-currency focused on fast transactions with low 
 ### Coin Specs
 <table>
 <tr><td>Algo</td><td>Quark</td></tr>
-<tr><td>Block Time</td><td>60 Seconds</td></tr>
+<tr><td>Block Time</td><td>180 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoS Phase)</td><td>21,000,000 MCH</td></tr>
-<tr><td>Premine</td><td>12,000,000 MCH</td></tr>
+<tr><td>Max Coin Supply (PoS Phase)</td><td>3100,000,000 MCH</td></tr>
+<tr><td>Premine</td><td>250,000,000 MCH</td></tr>
 </table>
 
 ### Reward Distribution
 
 <table>
 <th colspan=4>MCH Premine</th>
-<tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th></tr>
-<tr><td>1-2</td><td>21,000,000 MCH</td><td>Initial Pre-mine</td></tr>
+<tr><th>Block Halving</th><th>Reward half Amount</th><th>Notes</th></tr>
+
 </table>
 
 ### PoS Rewards Breakdown
 
-<table>
-<th>Year</th><th>Block Height</th><th>Total Reward</th><th>PoS Reward</th><th>Masternode Reward</th>
-<tr><td>1-2</td><td>3-1051200</td><td>6 MCH</td><td>2 MCH</td><td>4 MCH</td></tr>
-<tr><td>3-4</td><td>1051201-2102400</td><td>3 MCH</td><td>1 MCH</td><td>2 MCH</td></tr>
-<tr><td>5+</td><td>2102401+</td><td>0 MCH</td><td>0 MCH</td><td>0 MCH</td></tr>
-</table>
+
