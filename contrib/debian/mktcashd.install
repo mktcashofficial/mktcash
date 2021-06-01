@@ -1,0 +1,2 @@
+usr/local/bin/mktcashd usr/bin
+usr/local/bin/mktcash-cli usr/bin
